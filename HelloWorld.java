@@ -10,6 +10,6 @@ public class HelloWorld {
         System.out.println(Msg);
     }
     public static void whatFor(){
-        System.out.println("what for?");
+        System.out.println("what for??");
     }
 }
